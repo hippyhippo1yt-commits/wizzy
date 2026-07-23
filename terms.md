@@ -67,6 +67,6 @@ To the maximum extent permitted by law, Wizzy's developers and host providers sh
 
 If your server has been restricted from using Wizzy, or if you wish to report abuse of the system by a moderator, please reach out via our official support channel:
 
-* **Support Server:** [Join Wizzy Support](https://discord.gg/teQt2NC4Y)
+* **Support Server:** [Join Wizzy Support](https://discord.gg/M65XswbJAG)
 
 *Last updated: July 2026*
