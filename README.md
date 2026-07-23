@@ -1,1 +1,1 @@
-# wizzy
+# Wizzy Bot
