@@ -1,0 +1,1 @@
+# Wizzy Privacy Policy
