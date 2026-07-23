@@ -1,1 +1,1 @@
-# wizzy.github.io
+# wizzy
