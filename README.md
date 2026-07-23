@@ -1,4 +1,4 @@
 # Wizzy Bot
-| Page contents | Link |
+| Page Contents | Link |
 | :--- | :--- |
-| Privacy Policy | * [here](privacy)
+| Privacy Policy | [Read Here](privacy) |
