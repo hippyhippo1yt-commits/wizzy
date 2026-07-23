@@ -5,3 +5,5 @@ Wizzy will only store essential information about users and servers.
 ## What Wizzy stores about Servers
 - **How the server is configured:**
 This includes the roles that are setup to use Wizzy in that server, what channels wizzy posts alerts and logs to, and also timestamps of when these changes were made including when the config was first created, and when the config last received changes.
+- **Server ID**
+The server ID is used both to lookup the config for that server, and to check whether a server has been whitelisted to have Wizzy added to it.
