@@ -1,2 +1,5 @@
-# Wizzy Bot
+---
 theme: jekyll-theme-midnight
+---
+
+# Wizzy Bot
