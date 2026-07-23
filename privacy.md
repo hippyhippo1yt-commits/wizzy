@@ -89,7 +89,7 @@ While Wizzy retains security records under Legitimate Interest to maintain commu
 
 To request a copy of your data, appeal a blacklist record, or submit a data deletion request, please contact our team through our official support server:
 
-* **Support Server:** [Join Wizzy Support](https://discord.gg/teQt2NC4Y)
+* **Support Server:** [Join Wizzy Support](https://discord.gg/M65XswbJAG)
 
 *Last updated: July 2026*
 
