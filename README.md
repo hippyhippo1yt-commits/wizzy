@@ -1,2 +1,2 @@
 # Wizzy Bot
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
